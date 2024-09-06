@@ -1,0 +1,37 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment settings
+.env
+*.env
+
+# Docker-related files
+**/docker-compose.yml
+**/Dockerfile
+**/Dockerfile.*~
+
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# System files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Ignore Home Assistant specific build files
+hassio-build.json
+build/
+
+# Ignore test and development files (if applicable)
+tests/
+.coverage
