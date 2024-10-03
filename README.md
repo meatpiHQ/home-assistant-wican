@@ -1,2 +1,2 @@
 # home-assistant-wican
-WiCAN Home Assistant Add-on
+New repo https://github.com/jay-oswald/ha-wican
